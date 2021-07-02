@@ -5,17 +5,20 @@ body{
 }
 .form{
     background-color: white;
-    width: 600px;
-    margin-left: 29%;
+    width: 780px;
+    height: 420px;
+    margin-left: 25%;
     padding: 40px 30px 30px 30px;
     border-radius: 60px;
+    margin-top: 10%;
+
 }
 .a{
-    margin-left: 20px;
+    margin-left: 15px;
 }
 h2.active {
-    color: #0d0d0d;
     border-bottom: 2px solid rgb(125, 207, 245);
+    margin-bottom: 2%;
   }
 
     
