@@ -34,7 +34,7 @@ h2.active {
     position: relative;
     width: 180px;
     height: 45px;
-    border-radius: 27px;
+    border-radius: 2px;
     color: #88b3d9;
     font: 700 14px/60px "Droid Sans", sans-serif;
     letter-spacing: 0.12em;
@@ -59,18 +59,20 @@ h2.active {
   }
   .d{
     color: black;
-    border: 2px solid rgb(125, 207, 245); 
+   // border: 2px solid rgb(125, 207, 245); 
     width: 230px;
     height: 30px;
+    border-radius: 2px;
+    background-color:  rgb(221, 230, 235);
     
   }
 
   .root {
     display: flex;
-justify-content: center;
-align-content: center;
-height: 100vh;
-flex-direction: column;
-align-items: center;
+    justify-content: center;
+    align-content: center;
+    height: 100vh;
+    flex-direction: column;
+    align-items: center;
   }
     
